@@ -1,5 +1,4 @@
 # How to install Arduino codes on your system
-# NOTE: These instructions are being revised to reflect my recently refactored repositories.
 Here are procedures you should use to install the Arduino codes in my repositories into your own system.  The repositories come in two types, *-library* and *-sketches*; each repository's name will be tagged with one or the other.  If a repository's name has neither, it's not Arduino code.
 
 ## *-library*
