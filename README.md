@@ -2,13 +2,13 @@
 Just like the name implies.
 
 So far I have:
-## Installation_to_Arduino.md
+## Install\_Arduino\_Libraries.md
 * format: Markdown
-* description: This document provides instructions for installing _-library_ or _-sketches_ repositories in my GitHub into a user's Arduino IDE files.
+* description: This document provides instructions for installing _-library_ repositories in my GitHub into a user's Arduino IDE files.
   
-## Installation_to_Arduino.html
-* format: HTML
-* description: HTML export of the above file.  Not really human-readable when viewed from GitHub, but once downloaded to your system it can be viewed and printed from a browser.
+## Install\_Arduino\_Sketches.md
+* format: Markdown
+* description: This document provides instructions for installing _-sketches_ repositories in my GitHub into a user's Arduino IDE files.
   
 ## arduinos_multitask.pdf
 * format: PDF
